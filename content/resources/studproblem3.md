@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c260bcfb-5952-044a-8ba5-350677535621
 resourcetype: Document
 title: studproblem3.pdf
 uid: 7c39e081-aff2-1440-7b56-3bdc5a99ac0e
