@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/4-123-architectural-design-level-i-perceptions-and-processes-fall-2003/7c39e081aff214407b563bdc5a99ac0e_studproblem3.pdf
+file: /courses/4-123-architectural-design-level-i-perceptions-and-processes-fall-2003/7c39e081aff214407b563bdc5a99ac0e_studproblem3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
