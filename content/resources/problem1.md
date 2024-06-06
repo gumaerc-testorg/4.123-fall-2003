@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-123-architectural-design-level-i-perceptions-and-processes-fall-2003/5b6cd80d8af38090dbbcccef8f57925a_problem1.pdf
+file_size: 65342
 file_type: application/pdf
 learning_resource_types:
 - Assignments
