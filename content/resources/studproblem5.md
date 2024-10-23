@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/4-123-architectural-design-level-i-perceptions-and-processes-fall-2003/d4ef30776f0092db5412b68540e54a79_studproblem5.pdf
+file: /ol-ocw-studio-app/courses/4-123-architectural-design-level-i-perceptions-and-processes-fall-2003/d4ef30776f0092db5412b68540e54a79_studproblem5.pdf
 file_size: 239508
 file_type: application/pdf
 learning_resource_types:
